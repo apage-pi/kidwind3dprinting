@@ -1,5 +1,6 @@
 # Kidwind 3D Printing
 .stl files and links for the Kidwind Kansas project
+-We need help designing
 ## Branch Explanation
 - main -- the main branch where final releases are stored
 - all other branches -- edits to main, ready to be reviewed
